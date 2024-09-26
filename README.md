@@ -58,7 +58,7 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
    - Modify the path in the dataset loading section to point to your dataset.
 
 
-# ------------------------------------  GAN Architecture ------------------------------------ #
+# ---------------------------  GAN Architecture ------------------------------ #
 
 ## Project Overview
 
